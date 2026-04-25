@@ -5,9 +5,9 @@
 #include "time.h"   // 时间库
 
 // --- 基础配置 ---
-const char* ssid = "HUANWIFI";
-const char* password = "asdfghjkl...";
-const char* feishu_webhook_url = "https://open.feishu.cn/open-apis/bot/v2/hook/602afa60-47fa-4f92-8023-1fc05b073318";
+const char* ssid = "Your_SSID";
+const char* password = "Your_Password";
+const char* feishu_webhook_url = "https://open.feishu.cn/open-apis/bot/v2/hook/xxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx";
 
 // NTP 时间服务器（国内阿里云和NTS中心，UTC+8）
 const char* ntpServer1 = "ntp.aliyun.com";
